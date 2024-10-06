@@ -52,6 +52,10 @@ cmake .
 make
 sudo make install
 
+# Install gedit
+echo "Installing GEDIT..."
+sudo apt install -y gedit
+
 # Clean up whatever
 echo "Cleaning..."
 sudo apt autoremove -y
