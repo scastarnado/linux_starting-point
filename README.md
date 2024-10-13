@@ -23,7 +23,7 @@ This script automates the installation of essential development tools and utilit
 
 1. Follow this commands:
    ```bash
-   git clone [https://github.com/scastarnado/linux_starting_point.git](https://github.com/scastarnado/linux_starting-point.git)
+   git clone https://github.com/scastarnado/linux_starting-point.git
    cd linux_starting_point
    chmod +x preferred_script.sh
    ./preferred_script.sh
